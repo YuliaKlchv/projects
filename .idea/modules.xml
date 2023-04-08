@@ -4,11 +4,21 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abone/Abone.iml" filepath="$PROJECT_DIR$/Abone/Abone.iml" />
       <module fileurl="file://$PROJECT_DIR$/Animals/Animals.iml" filepath="$PROJECT_DIR$/Animals/Animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/Arrays/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Atm/Atm.iml" filepath="$PROJECT_DIR$/Atm/Atm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Beyblade/Beyblade.iml" filepath="$PROJECT_DIR$/../Beyblade/Beyblade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/CityTrip/CityTrip.iml" filepath="$PROJECT_DIR$/LinkedList/CityTrip/CityTrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composition/Composition.iml" filepath="$PROJECT_DIR$/Composition/Composition.iml" />
       <module fileurl="file://$PROJECT_DIR$/Employer/Employer.iml" filepath="$PROJECT_DIR$/Employer/Employer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Exe 1/Exe 1.iml" filepath="$PROJECT_DIR$/Arrays/Exe 1/Exe 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interfaces/Interfaces.iml" filepath="$PROJECT_DIR$/Interfaces/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Memory Game/Memory Game.iml" filepath="$PROJECT_DIR$/Arrays/Memory Game/Memory Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/ArrayList/Singers/Singers.iml" filepath="$PROJECT_DIR$/Arrays/ArrayList/Singers/Singers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/StringClass/StringClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Training Program/Training Program.iml" filepath="$PROJECT_DIR$/Training Program/Training Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/exe2_forEach/exe2_forEach.iml" filepath="$PROJECT_DIR$/Arrays/exe2_forEach/exe2_forEach.iml" />
     </modules>
   </component>
 </project>
